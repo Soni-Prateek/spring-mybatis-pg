@@ -1,4 +1,4 @@
-package com.baeldung.mybatis.spring;
+package com.prateek.mybatis.spring;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

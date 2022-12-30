@@ -1,4 +1,4 @@
-package com.baeldung.mybatis.spring;
+package com.prateek.mybatis.spring;
 
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.mybatis.spring.SqlSessionFactoryBean;
@@ -16,7 +16,7 @@ import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseType;
 import javax.sql.DataSource;
 
 @Configuration
-@MapperScan("com.baeldung.mybatis")
+@MapperScan("com.prateek.mybatis")
 @EnableAutoConfiguration(exclude = {DataSourceAutoConfiguration.class, MybatisAutoConfiguration.class})
 public class PersistenceConfig {
 

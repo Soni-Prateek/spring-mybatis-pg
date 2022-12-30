@@ -1,4 +1,4 @@
-package com.baeldung.mybatis.spring;
+package com.prateek.mybatis.spring;
 
 public class Article {
     private Long id;
