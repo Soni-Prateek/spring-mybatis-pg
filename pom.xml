@@ -11,10 +11,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.baeldung</groupId>
-    <artifactId>spring-mybatis</artifactId>
+    <groupId>com.prateek</groupId>
+    <artifactId>spring-mybatis-pg</artifactId>
     <version>0.1-SNAPSHOT</version>
-    <name>spring-mybatis</name>
+    <name>spring-mybatis-pg</name>
 
     <dependencies>
         <dependency>
